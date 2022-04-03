@@ -49,7 +49,7 @@ experience:
     location: Rome, Italy
     date_start: '2019-07-01'
     date_end: '2020-08-19'
-    description: description: |2-
+    description: |2-
         Responsibilities include:
 
     * Designed and developed deep learning models for rare disease classification. 
