@@ -49,12 +49,6 @@ experience:
     location: Rome, Italy
     date_start: '2019-07-01'
     date_end: '2020-08-19'
-    description: |2-
-        Responsibilities include:
-
-    * Designed and developed deep learning models for rare disease classification. 
-    * Designed and deloped a natural language processing framework that provides personalized treatments by text mining the biomedical literature.
-    * All the developed models are currently used at the Paediatric Hospital \emph{Bambino Gesù} in Rome to diagnose and treat children affected with rare diseases.
 
 design:
   columns: '2'

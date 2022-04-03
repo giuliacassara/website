@@ -25,7 +25,6 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/P8QGWBPN8RWN
   date_end: "2021-05-18"
-  #date_start: "2021-05-18"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
@@ -34,7 +33,6 @@ item:
 
 - certificate_url: https://udemy-certificate.s3.amazonaws.com/pdf/UC-CK04S6D1.pdf
   date_end: "2018-02-18"
-  #date_start: "2021-05-18"
   description: ""
   organization: Udemy
   organization_url: https://www.udemy.com
